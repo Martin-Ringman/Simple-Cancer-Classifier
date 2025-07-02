@@ -26,5 +26,4 @@ It is generally better to err on the side of caution in medical diagnostics. For
 
 - The classifier is intended as a demonstration and should not be used for real medical diagnosis.
 - Data is based on the [UCI Machine Learning Repository Breast Cancer Wisconsin (Diagnostic) Data Set](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29).
-
-This code is provided for reference only. Please do not reuse or redistribute without permission.
+- This code is provided for reference only. Please do not reuse or redistribute without permission.
